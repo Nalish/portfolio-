@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(24, 4, 4);
+    color:white;
+}
+.container{
+    display:flex;
+    flex-direction: row;
+    gap: 6em;
+}
+.hard{
+    background-color:rgb(24, 114, 114);
+    width: 300px;
+    color: black;
+}
+.soft{
+    background-color: rgb(24, 114, 113);
+    width: 300px;
+    color:black;
+}
+a:hover{
+    color: yellow;
+}
